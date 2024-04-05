@@ -4,7 +4,7 @@ Bookmyshow is a ticketing platform where you can book tickets for a movie show. 
 
 ## **Problem 1:**
 
-As part of this assignment, we need to list down all the entities, their attributes and the table structures for the scenario mentioned in the previous slide. You also need to write the SQL queries required to create these tables along with few sample entries. Ensure the tables follow 1NF, 2NF, 3NF and BCNF rules.
+As part of this assignment, we need to list down all the entities, their attributes and the table structures for the scenario mentioned in the previous slide. You also need to write the SQL queries required to create these tables along with a few sample entries. Ensure the tables follow 1NF, 2NF, 3NF and BCNF rules.
 
 # BookMyShow Ticketing Platform Database Design
 
